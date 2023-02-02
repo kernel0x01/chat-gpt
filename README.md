@@ -8,13 +8,16 @@
  
  #installation
  
- 1) git clone https://github.com/kernel0x01/chat-gpt.git
+ git clone https://github.com/kernel0x01/chat-gpt.git
  
  
- 2) cd chat-gpt
+ cd chat-gpt
  
  
- 3) ./setup.sh
+ chmod +x setup.sh
  
  
- 4) gpt <ask anything>
+ ./setup.sh
+  
+ 
+ gpt <ask anything>
