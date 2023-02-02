@@ -8,7 +8,7 @@
  
  #installtion
  
- 1) git clone
+ 1) git clone https://github.com/kernel0x01/chat-gpt.git
  
  
  2) cd chat-gpt
