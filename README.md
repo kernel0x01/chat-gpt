@@ -14,9 +14,6 @@
  cd chat-gpt
  
  
- nano chatgpt   #enter your api-key
- 
- 
  chmod +x setup.sh
  
  
@@ -24,3 +21,7 @@
   
  
  gpt <ask anything>
+
+ #Note: add api-key 
+ 
+ ![image](https://user-images.githubusercontent.com/80905310/216299160-6d860e72-d17d-4eb4-85da-d894dfdcb8ea.png)
