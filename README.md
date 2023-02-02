@@ -14,6 +14,9 @@
  cd chat-gpt
  
  
+ nano chatgpt   #enter your api-key
+ 
+ 
  chmod +x setup.sh
  
  
