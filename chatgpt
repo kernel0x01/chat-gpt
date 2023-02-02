@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+#Import open AI OS and System Modules
+import openai,os,sys
+if len(sys.argv) < 2:
+    print("Usage: gpt <your questions>")
+    sys.exit()
+
+prompt = " ".join(sys.argv[1:])
+openai.api_key = "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"
+completions = openai.Completion.create(
+engine="text-davinci-003",
+prompt=prompt,
+max_tokens=1024,
+n=1,
+stop=None,
+temperature=0.5,
+)
+message = completions.choices[0].text
+print(message)
