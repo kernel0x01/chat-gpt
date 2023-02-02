@@ -6,7 +6,7 @@
  ![image](https://user-images.githubusercontent.com/80905310/216296348-f0a55302-2ad6-4c2f-a392-e93458f8c023.png)
 
  
- #installtion
+ #installation
  
  1) git clone https://github.com/kernel0x01/chat-gpt.git
  
